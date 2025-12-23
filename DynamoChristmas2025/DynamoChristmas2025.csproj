@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="DynamoVisualProgramming.DynamoServices" Version="4.0.1.3557" />
+    <PackageReference Include="DynamoVisualProgramming.WpfUILibrary" Version="4.0.1.3557" />
+  </ItemGroup>
+
+</Project>
